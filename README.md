@@ -49,3 +49,5 @@ I'm always looking to collaborate on robotics integrations, software architectur
 <div align="center">
   <i>Always excited to learn new tech and tackle complex problems!</i>
 </div>
+
+A huge shoutout to the [Level Up Your GitHub Profile](https://www.youtube.com/watch?v=DWFs6aqknqw) tutorial on YouTube. The tips and guidance from that video were incredibly helpful for setting up the dynamic styling, typing animations, and language badges to make this README unique!

@@ -34,7 +34,7 @@ When I'm not writing code or studying for exams, my hobbies take me as far away 
 
 <div align="center">
   <img src="https://github.com/Txzzer/Phils-Rep/commit/e403dfbfdf0d44ddde5f47d18d8217a2142e370f" />
-  <img src="https://images.unsplash.com/photo-1544253907-7cb691b0c034?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" width="250" alt="Rock fishing placeholder" />
+  <img src="https://github.com/Txzzer/Phils-Rep/commit/e403dfbfdf0d44ddde5f47d18d8217a2142e370f" />
 </div>
 
 ---

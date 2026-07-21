@@ -33,7 +33,6 @@ When I'm not writing code or studying for exams, my hobbies take me as far away 
 *   🌊 **Rock Fishing:** Nothing beats scratching for a catch off the rocks—Kinney Bay is one of my absolute favorite spots.
 
 <div align="center">
-  <!-- To add your own photos, upload them to your repository and replace the URL below -->
   <img src="https://images.unsplash.com/photo-1576225106612-4fb34e101fb1?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" width="250" alt="FPV Drone placeholder" />
   <img src="https://images.unsplash.com/photo-1544253907-7cb691b0c034?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" width="250" alt="Rock fishing placeholder" />
 </div>

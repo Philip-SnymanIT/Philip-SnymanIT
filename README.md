@@ -17,15 +17,19 @@ Hey, I'm Philip 👋 I've just finished my **Bachelor of Information Technology 
 I'm a C# / .NET guy at heart. I like clean backend code, solid design patterns, and figuring out how all the pieces of a system fit together. In my final year I stepped up as project lead on our capstone, and it taught me that I enjoy working with people just as much as I enjoy working with code.
 
 ```csharp
-public class Philip : Developer
+// Program.cs
+var philip = new Developer
 {
-    public string   Location  => "Gqeberha, South Africa 🇿🇦";
-    public string   Degree    => "BIT @ Nelson Mandela University (2026) ✅";
-    public string   Role      => "Junior Software Developer";
-    public string[] Stack     => ["C#", ".NET", "ASP.NET Core", "SQL Server"];
-    public string[] OffScreen => ["FPV drones", "Rock fishing", "Lifting", "Guitar"];
-    public string   Status    => "Open to work: on-site, hybrid or remote";
-}
+    Name      = "Philip Snyman",
+    Location  = "Gqeberha, South Africa 🇿🇦",
+    Degree    = "BIT @ Nelson Mandela University (2026) ✅",
+    Role      = "Junior Software Developer",
+    Stack     = ["C#", ".NET", "ASP.NET Core", "SQL Server"],
+    OffScreen = ["FPV drones", "Rock fishing", "Lifting", "Guitar"],
+    Status    = "Open to work: on-site, hybrid or remote"
+};
+
+Console.WriteLine($"Hi, I'm {philip.Name} 👋");
 ```
 
 ---
